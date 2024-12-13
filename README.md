@@ -7,14 +7,14 @@
   - [Online Restaurant Page (La Tomate Rouge) ](https://github.com/IsaacAdude/RestaurantLaTomateRouge)
     
 - <b>Full Stack Web App (React, NodeJS, MySql)</b>
-  - [Simple CRUD Operations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Simple CRUD Operations](https://github.com/IsaacAdude/FullStack-CRUD) 
 - <b>Java Back-End (Spring Boot, MySql and Spring MVC)</b>
   - [Online Restaurant (La Tomate Rouge)](https://github.com/IsaacAdude/RestaurantBackEnd)
   - [Student Registration](https://github.com/IsaacAdude/StudentManagementSystem)
 
 <h2>Certifications</h2>
 
-- [Java FullStack Developer](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Java FullStack Developer
 
 
 <h2> 🤳 Connect with me:</h2>
