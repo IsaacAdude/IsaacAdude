@@ -10,7 +10,7 @@
   - [Simple CRUD Operations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Java Back-End (Spring Boot, MySql and Spring MVC)</b>
   - [Online Restaurant (La Tomate Rouge)](https://github.com/IsaacAdude/RestaurantBackEnd)
-  - [Student Registration](https://github.com/IsaacAdude/RestaurantBackEnd)
+  - [Student Registration](https://github.com/IsaacAdude/StudentManagementSystem)
 
 <h2>Certifications</h2>
 
