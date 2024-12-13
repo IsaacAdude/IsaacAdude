@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front-End (Boostrap, Html, Css, JavaScript, Tailwind Css)</b>
-  - [Fictional campsites review site La Voie ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Fictional campsites review site La Voie ](https://github.com/IsaacAdude/FictionalCampsiteLaVoie)
   - [Online Restaurant Page] (La Tomate Rouge)()
 - <b>Full Stack Web App (React, NodeJS, MySql)</b>
   - [Simple CRUD Operations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
