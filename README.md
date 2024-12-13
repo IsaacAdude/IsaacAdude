@@ -2,28 +2,33 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Front-End (Boostrap, Html, Css, JavaScript, Tailwind Css)</b>
-  - [Fictional campsites review site La Voie ](https://github.com/IsaacAdude/FictionalCampsiteLaVoie)
-  - [Online Restaurant Page (La Tomate Rouge) ](https://github.com/IsaacAdude/RestaurantLaTomateRouge)
-    
-- <b>Full Stack Web App (React, NodeJS, MySql)</b>
-  - [Simple CRUD Operations](https://github.com/IsaacAdude/FullStack-CRUD) 
-- <b>Java Back-End (Spring Boot, MySql and Spring MVC)</b>
-  - [Online Restaurant (La Tomate Rouge)](https://github.com/IsaacAdude/RestaurantBackEnd)
-  - [Student Registration](https://github.com/IsaacAdude/StudentManagementSystem)
+- **Front-End (Bootstrap, HTML, CSS, JavaScript, Tailwind CSS)**  
+  - [Fictional Campsite Review Site - La Voie](https://github.com/IsaacAdude/FictionalCampsiteLaVoie)  
+  - [Online Restaurant Page - La Tomate Rouge](https://github.com/IsaacAdude/RestaurantLaTomateRouge)  
 
-<h2>Certifications</h2>
+- **Full Stack Web App (React, NodeJS, MySQL)**  
+  - [Simple CRUD Operations Back-End](https://github.com/IsaacAdude/FullStack-CRUD)  
+  - [Simple CRUD Operations Front-End](https://github.com/IsaacAdude/FrontendCRUD)  
 
-- Java FullStack Developer
+- **Java Back-End (Spring Boot, MySQL, and Spring MVC)**  
+  - [Online Restaurant - La Tomate Rouge (Back-End)](https://github.com/IsaacAdude/RestaurantBackEnd)  
+  - [Student Registration System](https://github.com/IsaacAdude/StudentManagementSystem)  
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🎓 Certifications:</h2>
+
+- **Java FullStack Developer**
+
+---
+
+<h2>🤳 Connect with Me:</h2>
 
 [<img align="left" alt="IsaacAdude | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/isaac-adude/
 
-
-[linkedin]: www.linkedin.com/in/isaac-adude
+---
 
 <!--
 **isaacadude/isaacadude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
